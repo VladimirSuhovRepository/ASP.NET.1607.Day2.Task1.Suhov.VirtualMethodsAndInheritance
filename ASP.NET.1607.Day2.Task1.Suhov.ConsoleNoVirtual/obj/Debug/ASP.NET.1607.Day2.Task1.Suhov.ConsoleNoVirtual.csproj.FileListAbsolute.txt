@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\bin\Debug\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual.exe.config
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\bin\Debug\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual.exe
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\bin\Debug\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual.pdb
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\bin\Debug\ASP.NET.1607.Day2.Task1.Suhov.dll
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\bin\Debug\ASP.NET.1607.Day2.Task1.Suhov.pdb
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\obj\Debug\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\obj\Debug\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual.exe
+C:\Users\Administrator\Documents\test7\ASP.NET.1607.Day2.Task1.Suhov\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual\obj\Debug\ASP.NET.1607.Day2.Task1.Suhov.ConsoleNoVirtual.pdb
