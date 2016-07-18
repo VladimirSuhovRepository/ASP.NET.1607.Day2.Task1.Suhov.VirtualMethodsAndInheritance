@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ASP.NET._1607.Day2.Task1.Suhov
 {
+    /// <summary>
+    /// Class for abiturient with medal or diploma
+    /// </summary>
     public class AbiturientDrive:Abiturient
     {
         public AbiturientDrive() { }
@@ -15,10 +18,16 @@ namespace ASP.NET._1607.Day2.Task1.Suhov
             base.Marks = marks;
             base.AverageMark = base.CalcAvgMark(marks) + (int)type;
         }
+        /// <summary>
+        /// Overrided method for adding new abiturient as abiturient with medal or diploma
+        /// </summary>
         public override Abiturient AddAbiturient(string surname, int[] marks, AbiturientType type = AbiturientType.Default)
         {
             return new AbiturientDrive(surname, marks, type);
         }
+        /// <summary>
+        /// New method for adding new abiturient as abiturient with medal or diploma
+        /// </summary>
         public new Abiturient AddAbiturientNoVirtual(string surname, int[] marks, AbiturientType type = AbiturientType.Default)
         {
             return new AbiturientDrive(surname, marks, type);
