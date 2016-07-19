@@ -30,13 +30,13 @@ namespace ASP.NET._1607.Day2.Task1.Suhov
         /// String for console output for average abiturient
         /// </summary>
         public string Output { get { return $"Surname: {_surname}, Average mark: {_averageMark}"; } }
-    /// <summary> 
-    /// Default constructor, initialize variables with default values 
-    /// </summary> 
+        /// <summary> 
+        /// Default constructor, initialize variables with default values 
+        /// </summary> 
         public Abiturient() { }
-     /// <summary> 
-     /// Constructor with parameters, initialize variables with the parameters value 
-     /// </summary> 
+        /// <summary> 
+        /// Constructor with parameters, initialize variables with the parameters value 
+        /// </summary> 
         public Abiturient(string surname, int[] marks)
         {
             _surname = surname;
