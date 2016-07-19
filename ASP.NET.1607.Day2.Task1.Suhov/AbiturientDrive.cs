@@ -11,7 +11,13 @@ namespace ASP.NET._1607.Day2.Task1.Suhov
     /// </summary>
     public class AbiturientDrive:Abiturient
     {
+        /// <summary> 
+        /// Default constructor, initialize variables with default values 
+        /// </summary> 
         public AbiturientDrive() { }
+        /// <summary> 
+        /// Constructor with parameters, initialize variables with the parameters value 
+        /// </summary> 
         public AbiturientDrive(string surname, int[] marks, AbiturientType type = AbiturientType.Default)
         {
             base.Surname = surname;
